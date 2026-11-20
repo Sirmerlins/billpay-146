@@ -1,0 +1,6 @@
+{
+  "name": "BillPay 146 — Payment Checklist",
+  "description": "Fast number-lookup and 146-person grid checklist to track and verify who has paid the bill.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
